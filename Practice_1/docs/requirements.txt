@@ -1,0 +1,6 @@
+summarytools >= 0.3.0
+sklearn
+pyyaml
+matplotlib
+seaborn
+pandas
