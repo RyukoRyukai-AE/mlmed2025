@@ -4,3 +4,4 @@ pyyaml
 matplotlib
 seaborn
 pandas
+imblearn
