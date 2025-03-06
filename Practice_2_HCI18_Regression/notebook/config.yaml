@@ -1,0 +1,6 @@
+paths:
+  train_data: 'D:/Workspace/Machine_Learning/mlmed2025/Practice_2_HCI18_Regression/data/training_set'
+  test_data: 'D:/Workspace/Machine_Learning/mlmed2025/Practice_2_HCI18_Regression/data/test_set'
+  data_csv: 'D:/Workspace/Machine_Learning/mlmed2025/Practice_2_HCI18_Regression/data'
+  model: 'D:/Workspace/Machine_Learning/mlmed2025/Practice_2_HCI18_Regression/model'
+  figure: 'D:/Workspace/Machine_Learning/mlmed2025/Practice_2_HCI18_Regression/report/figures'
